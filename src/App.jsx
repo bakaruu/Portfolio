@@ -9,7 +9,7 @@ function App() {
     <>
       <div>
         
-          <img src={reactLogo}  alt="React logo" />
+          <img src={reactLogo} className="logoUnder" alt="Under construction logo" />
         
       </div>
 

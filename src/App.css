@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+
+/* Media Queries para Responsividad */
+@media (max-width: 768px) {
+  .logoUnder {
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  
+
+  
+}
