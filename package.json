@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://bakaruu.github.io/portfolio",
   "scripts": {
-    "predeploy": "npm run build && echo bakaruu.dev > ./dist/CNAME",
+    "predeploy": "npm run build && echo bakaru.dev > dist/CNAME",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
